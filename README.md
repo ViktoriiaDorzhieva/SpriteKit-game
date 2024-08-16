@@ -15,3 +15,34 @@ SpriteKit game is an iOS augmented reality (AR) app developed following the "App
 
 ## Source
 "Apple Augmented Reality by Tutorials" by Chris Language
+
+# Testing
+
+## Test case 1
+
+Summary<br/>
+
+The spawning point is moving from its location when camera is shaking.<br/>
+
+Description<br/>
+
+1. Open the app.<br/>
+2. Tap on the screen for the spawning point to appear.<br/>
+3. Shake or move camera around.<br/>
+4. Point the camera back to the spawning point.<br/>
+
+Expected results<br/>
+
+The spawning point stays in the same location.<br/>
+
+Environment <br/>
+
+- macOS 15.3<br/>
+- iOS 17.6.1<br/> 
+- Xcode 15.3<br/> 
+
+Attachment<br/>
+
+
+
+Jira bug report<br/>
