@@ -37,7 +37,7 @@ The spawning point stays in the same location.<br/>
 
 Environment <br/>
 
-- macOS 15.3<br/>
+- macOS Sonoma 14.4.1 <br/>
 - iOS 17.6.1<br/> 
 - Xcode 15.3<br/> 
 
