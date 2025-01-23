@@ -45,4 +45,4 @@ Attachment<br/>
 
 ![](emojiBug.gif)<br/>
 
-Jira bug report<br/>
+
